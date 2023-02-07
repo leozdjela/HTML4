@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+figure{
+    text-align: center;
+}
+body{
+    background-color: blanchedalmond;
+}
+h2{
+    text-align: center;
+    border-style: solid;
+}
+h3{
+    border-bottom: solid;
+}
+h4{
+    border-bottom: solid;
+}
+footer{
+    border-style: groove;
+}
+address{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+
